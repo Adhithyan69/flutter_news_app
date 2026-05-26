@@ -34,10 +34,6 @@ Modular File Structure for scalability and maintainability:
 | `webview_flutter`          | View full articles in a WebView                       |
 | `intl`                     | Date formatting (e.g., `16 April, 2025`)              |
 
-## 📱 Download APK
-
-
-👉 [Download APK from Google Drive](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9/view?usp=sharing)
 
 
 
